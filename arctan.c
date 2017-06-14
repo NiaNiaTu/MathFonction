@@ -1,4 +1,4 @@
-#include "atan2s16.h"
+#include "arctan.h"
 
 const INT32U atan2buf[] = {
 0x00000000,0x00000065,0x000000C9,0x0000012E,0x00000192,0x000001F7,0x0000025B,0x000002C0,
