@@ -1,5 +1,5 @@
 #include "main.h"
-#include "atan2s16.h"
+#include "arctan.h"
 #include "f_math.h"
 signed short m11,m12,m13,m14,m15,m16,m17,m18,m19; //my new function to calculate arctan
 signed short m21,m22,m23,m24,m25,m26,m27,m28,m29; //old function to calcule arctan
